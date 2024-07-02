@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" apprev="15996" appversion="5.2.4">
+  <panorama id="node1">
+    <input levelbiashidpi="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelingroll="0" overlap="1" levelbias="0.400" height="750" width="750">
+      <level preload="0" height="750" predecode="0" width="750"/>
+      <level preload="1" height="375" predecode="1" width="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="-5.16" fov="70" pan="-9.96"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" scaletofit="1" fov="120" fovstereographic="270" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata title="" source="" description="" customnodeid="" author="" copyright="" datetime="" info="" latitude="" comment="" tags="для тура" longitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" textcolor="0x000000" borderalpha="1" background="1" border="1" enabled="1" wordwrap="1" height="20" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1" width="180"/>
+      <polystyle bordercolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" tilt="-1.26" url="{node3}" target="-36.7/-8.4/70.0" skinid="ht_node" pan="-6.8"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" softedge="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedmouse="0" contextfullscreen="0" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedkeyboardzoom="0" invertcontrol="1" sensitivity="8" speedwheel="1" contextprojections="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbiashidpi="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelingroll="0" overlap="1" levelbias="0.400" height="750" width="750">
+      <level preload="0" height="750" predecode="0" width="750"/>
+      <level preload="1" height="375" predecode="1" width="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-57.1866" fov="5" pan="-180"/>
+      <max tilt="57.1866" fov="120" fovstereographic="270" pan="180" fovfisheye="360"/>
+    </view>
+    <userdata title="" source="" description="" customnodeid="" author="" copyright="" datetime="" info="" latitude="" comment="" tags="для тура" longitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" textcolor="0x000000" borderalpha="1" background="1" border="1" enabled="1" wordwrap="1" height="20" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1" width="180"/>
+      <polystyle bordercolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" tilt="-1.81" url="{node1}" target="161.8/-5.9/70.0" skinid="ht_node" pan="113.83"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" softedge="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedmouse="0" contextfullscreen="0" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedkeyboardzoom="0" invertcontrol="1" sensitivity="8" speedwheel="1" contextprojections="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbiashidpi="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelingroll="0" overlap="1" levelbias="0.400" height="750" width="750">
+      <level preload="0" height="750" predecode="0" width="750"/>
+      <level preload="1" height="375" predecode="1" width="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="-3.58" fov="70" pan="-140.41"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-57.6047" fov="5" pan="-180"/>
+      <max tilt="57.6047" fov="120" fovstereographic="270" pan="180" fovfisheye="360"/>
+    </view>
+    <userdata title="" source="" description="" customnodeid="" author="" copyright="" datetime="" info="" latitude="" comment="" tags="для тура|2" longitude=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" textcolor="0x000000" borderalpha="1" background="1" border="1" enabled="1" wordwrap="1" height="20" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1" width="180"/>
+      <polystyle bordercolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" tilt="-3.16" url="{node2}" target="-140.7/-19.1/70.0" skinid="ht_node" pan="51.04"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" softedge="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" zoomoutpause="1" enabled="1" zoomin="0" zoomfov="20"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedmouse="0" contextfullscreen="0" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" lockedkeyboardzoom="0" invertcontrol="1" sensitivity="8" speedwheel="1" contextprojections="0" hideabout="0"/>
+  </panorama>
+</tour>
